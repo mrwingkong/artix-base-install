@@ -10,8 +10,6 @@ This is the **base install** repo. Related projects:
 | [artix-post-install](https://github.com/mrwingkong/artix-post-install) | Optional desktop polish + ThinkPad / your hardware |
 | [artix-portix](https://github.com/mrwingkong/artix-portix) | Optional Porteus-style `.xzm` modules and `pman` |
 
-> Draft: these GitHub links are the planned names. Publish only after you say go.
-
 ## Who is this for?
 
 Anyone who wants a full Artix OpenRC install (not a live ISO with persistence) that can move between PCs with minimal fuss.
